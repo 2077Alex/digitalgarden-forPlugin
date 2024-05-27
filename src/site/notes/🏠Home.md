@@ -73,6 +73,17 @@
 
 # 主题
 - Abyssal
-	- ![🏠Home.png](/img/user/Media/Assets/%F0%9F%8F%A0Home.png)
+	- ![🏠Home.png|700](/img/user/Media/Assets/%F0%9F%8F%A0Home.png)
+- Adwaita
+	- ![🏠Home-1.png|700](/img/user/Media/Assets/%F0%9F%8F%A0Home-1.png)
+- Amethyst
+	- ![🏠Home-4.png|700](/img/user/Media/Assets/%F0%9F%8F%A0Home-4.png)
+- AnuPpuccin
+	- ![🏠Home-5.png|700](/img/user/Media/Assets/%F0%9F%8F%A0Home-5.png)
+- Apatheia
+	- ![🏠Home-6.png](/img/user/Media/Assets/%F0%9F%8F%A0Home-6.png)
+- Aqua
+	- ![🏠Home-7.png](/img/user/Media/Assets/%F0%9F%8F%A0Home-7.png)
+- 
 
 
